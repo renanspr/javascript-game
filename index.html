@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" href="./src/assets/favicon.ico" />
+    <link rel="stylesheet" href="./src/assets/css/index.css">
+
+    <title>JS Game</title>
+  </head>
+  <body>
+    
+    <div class="app">
+      <div id="board" class="board">
+        <img class="board-img" src="./src/assets/images/tileset.gif" alt="Cenário" />
+
+        <div class="controls">
+           <p class="steps"> Passos: 
+             <span id="steps"> 0 </span>
+            </p>   
+
+          <button class="difficulty" onclick="setNewDifficulty()"> Mudar dificuldade (<span id="difficulty"></span>) </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./src/index.js"></script> 
+  </body>
+</html>

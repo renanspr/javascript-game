@@ -1,0 +1,11 @@
+{
+  "name": "js-game",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Renan Spera",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
