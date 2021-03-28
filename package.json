@@ -5,7 +5,7 @@
   "author": "Renan Spera",
   "license": "MIT",
   "scripts": {
-    "dev": "index.html"
+    "start": "index.html"
   },
   "dependencies": {},
   "devDependencies": {
