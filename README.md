@@ -2,6 +2,10 @@
   <img alt="Heroway" src="github/preview.png" width="100%">
 </p>
 
+## Heroku Deploy
+
+Play the game here: https://game-using-js.herokuapp.com/
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
