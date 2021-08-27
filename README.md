@@ -14,7 +14,7 @@ This project was developed with the following technologies:
 - HTML5
 - CSS3
 
-## 💻 Projeto
+## 💻 Project
 
 Game developed during the week Heroway Brasil. I created new features like steps counter and select difficulty.
 
