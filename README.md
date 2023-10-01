@@ -4,7 +4,7 @@
 
 ## 🚀 Heroku Deploy
 
-Play the game here: https://game-using-js.herokuapp.com/
+Play the game here: [https://game-using-js.herokuapp.com/](https://renanspr.github.io/javascript-game/)
 
 ## ⚙ Technologies
 
